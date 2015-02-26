@@ -11,6 +11,9 @@
  -
  - instead of just the word 'here'.
  -
+ - And if you want an additional challenge, have it print all the nonnegative
+ - integers less than 100
+ -
  - may the force be with you
  -
 -}
